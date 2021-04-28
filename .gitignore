@@ -1,0 +1,6 @@
+# Don't check auto-generated stuff into git
+build
+node_modules
+.env
+# Cruft
+package-lock.json
